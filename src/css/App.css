@@ -1,0 +1,36 @@
+.content{
+    margin-top: 100px;
+}
+.navigation{
+    line-height: 50px;
+    margin: 0 10px;
+    font-weight: 400;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.navigation:hover{
+    color: red;
+}
+a.active{
+ color: red;
+ text-decoration: none;
+}
+.table {
+    margin-top: 30px;
+}
+tr{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+.list-group-item{
+    display: flex;
+    align-items: center;
+}
+.pull-right{
+    margin-bottom: 20px;
+}
+
